@@ -1,8 +1,8 @@
 import React from 'react';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-export default function StorybookPage() {
-  const src = useBaseUrl('/components/index.html');
+export default function ComponentsStorybookPage() {
+  const src = useBaseUrl('/storybook-static/');
 
   return (
     <iframe
