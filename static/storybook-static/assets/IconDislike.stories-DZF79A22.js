@@ -1,0 +1,1 @@
+import"./jsx-runtime-BvIKBujE.js";import{t as e}from"./IconDislike-CjnEdcDK.js";var t={title:`Icons/IconDislike`,component:e,argTypes:{color:{control:`color`}}};const n={};n.parameters={...n.parameters,docs:{...n.parameters?.docs,source:{originalSource:`{}`,...n.parameters?.docs?.source}}};const r=[`Default`];export{n as Default,r as __namedExportsOrder,t as default};
