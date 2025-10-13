@@ -1,1 +1,0 @@
-import{n as e,t}from"./lib-BSKw4UUD.js";export{t as MDXProvider,e as useMDXComponents};

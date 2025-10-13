@@ -1,0 +1,3 @@
+import"./jsx-runtime-XAyefD7g.js";import"./constants-BuRyV1QB.js";import{t as e}from"./IconCopy-CwUAKea2.js";var t={title:`Icons/IconCopy`,component:e,argTypes:{color:{control:`color`}}};const n={args:{}};n.parameters={...n.parameters,docs:{...n.parameters?.docs,source:{originalSource:`{
+  args: {}
+}`,...n.parameters?.docs?.source}}};const r=[`Default`];export{n as Default,r as __namedExportsOrder,t as default};
