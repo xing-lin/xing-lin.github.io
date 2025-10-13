@@ -1,0 +1,3 @@
+import"./jsx-runtime-DiQi_cXu.js";import"./constants-BuRyV1QB.js";import{t as e}from"./IconCopy-J_CxIssS.js";var t={title:`Icons/IconCopy`,component:e,argTypes:{color:{control:`color`}}};const n={args:{}};n.parameters={...n.parameters,docs:{...n.parameters?.docs,source:{originalSource:`{
+  args: {}
+}`,...n.parameters?.docs?.source}}};const r=[`Default`];export{n as Default,r as __namedExportsOrder,t as default};
