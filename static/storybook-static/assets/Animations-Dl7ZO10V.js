@@ -1,0 +1,5 @@
+import"./preload-helper-Dr7BywEQ.js";import{c as e}from"./iframe-BotLAijE.js";import{n as t}from"./lib-SGix61sF.js";import"./dist-CkV_NFcp.js";import"./components-CY8motSG.js";import{t as n}from"./jsx-runtime-CT_qHfZX.js";import"./react-dom-CioLpL4i.js";import{l as r,n as i,u as a}from"./blocks-9oz0mhmQ.js";import"./constants-CePA40cO.js";import{r as o}from"./IconSync.stories-CVqdxJJS.js";var s=e(n()),c=`@layer _animations{._spinner{animation:spinner var(--animation-spinner-duration)linear infinite;transform-origin:50%}@keyframes spinner{to{transform:rotate(360deg)}}}`;function l(e){let n={h1:`h1`,h2:`h2`,...t(),...e.components};return(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)(r,{title:`STYLES/Animations`}),`
+`,(0,s.jsx)(n.h1,{id:`animations`,children:`Animations`}),`
+`,(0,s.jsx)(n.h2,{id:`_spinner-旋转`,children:`._spinner 旋转`}),`
+`,(0,s.jsx)(i,{of:o,sourceState:`shown`,withToolbar:`true`}),`
+`,(0,s.jsx)(a,{type:`code`,language:`css`,code:c})]})}function u(e={}){let{wrapper:n}={...t(),...e.components};return n?(0,s.jsx)(n,{...e,children:(0,s.jsx)(l,{...e})}):l(e)}export{u as default};
