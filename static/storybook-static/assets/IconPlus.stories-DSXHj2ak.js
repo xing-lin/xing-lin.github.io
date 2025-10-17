@@ -1,3 +1,0 @@
-import{c as e}from"./iframe-BotLAijE.js";import{t}from"./jsx-runtime-CT_qHfZX.js";import{r as n,t as r}from"./constants-CePA40cO.js";var i=e(t());function a(e){return(0,i.jsxs)(`svg`,{...r,viewBox:`0 0 1024 1024`,...e,children:[(0,i.jsx)(`path`,{d:`M482 152h60q8 0 8 8v704q0 8-8 8h-60q-8 0-8-8V160q0-8 8-8Z`}),(0,i.jsx)(`path`,{d:`M192 474h672q8 0 8 8v60q0 8-8 8H160q-8 0-8-8v-60q0-8 8-8Z`})]})}a.__docgenInfo={description:``,methods:[],displayName:`IconPlus`};var o={title:`Icons/IconPlus`,component:a,argTypes:n};const s={args:{}};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:`{
-  args: {}
-}`,...s.parameters?.docs?.source}}};const c=[`Default`];export{s as Default,c as __namedExportsOrder,o as default};
