@@ -1,1 +1,1 @@
-export const DOC_PATH_START = '/docs/typescript/nominal-typing';
+export const DOC_PATH_START = '/docs/Typescript/nominal-typing';
