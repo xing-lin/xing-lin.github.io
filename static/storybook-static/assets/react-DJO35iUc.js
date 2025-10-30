@@ -1,1 +1,0 @@
-import{n as e,t}from"./lib-DTsIiF0a.js";export{t as MDXProvider,e as useMDXComponents};
