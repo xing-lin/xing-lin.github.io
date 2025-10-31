@@ -1,1 +1,0 @@
-import{n as e,t}from"./lib-YcZb2VAG.js";export{t as MDXProvider,e as useMDXComponents};
