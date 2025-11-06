@@ -1,1 +1,0 @@
-import{n as e,t}from"./lib-BAe0M7Ea.js";export{t as MDXProvider,e as useMDXComponents};
