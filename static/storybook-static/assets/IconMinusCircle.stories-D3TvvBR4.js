@@ -1,0 +1,3 @@
+import"./jsx-runtime-1NpCqYHQ.js";import"./constants-R_yowVgy.js";import{t as e}from"./IconMinusCircle-Du2IhIQF.js";var t={title:`Icons/IconMinusCircle`,component:e,argTypes:{color:{control:`color`}}};const n={args:{}};n.parameters={...n.parameters,docs:{...n.parameters?.docs,source:{originalSource:`{
+  args: {}
+}`,...n.parameters?.docs?.source}}};const r=[`Default`];export{n as Default,r as __namedExportsOrder,t as default};
