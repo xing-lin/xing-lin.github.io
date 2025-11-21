@@ -1,0 +1,3 @@
+import"./jsx-runtime-D3oPosb_.js";import"./constants-R_yowVgy.js";import{t as e}from"./IconPlusCircle-BBK7DQ5C.js";var t={title:`Icons/IconPlusCircle`,component:e,argTypes:{color:{control:`color`}}};const n={args:{}};n.parameters={...n.parameters,docs:{...n.parameters?.docs,source:{originalSource:`{
+  args: {}
+}`,...n.parameters?.docs?.source}}};const r=[`Default`];export{n as Default,r as __namedExportsOrder,t as default};
