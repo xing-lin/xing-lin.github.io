@@ -1,0 +1,3 @@
+import"./jsx-runtime-DxsknXZO.js";import{r as e}from"./constants-R_yowVgy.js";import{t}from"./IconInfoCircle-C0ae9j_T.js";var n={title:`Icons/IconInfoCircle`,component:t,argTypes:e};const r={args:{}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`{
+  args: {}
+}`,...r.parameters?.docs?.source}}};const i=[`Default`];export{r as Default,i as __namedExportsOrder,n as default};

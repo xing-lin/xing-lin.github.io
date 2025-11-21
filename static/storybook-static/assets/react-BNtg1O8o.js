@@ -1,1 +1,0 @@
-import{n as e,t}from"./lib-7xknekYN.js";export{t as MDXProvider,e as useMDXComponents};
