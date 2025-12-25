@@ -1,0 +1,1 @@
+import{n as e,t}from"./lib-BWejinCP.js";export{t as MDXProvider,e as useMDXComponents};
