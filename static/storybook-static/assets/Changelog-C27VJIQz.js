@@ -1,3 +1,0 @@
-import"./preload-helper-Dr7BywEQ.js";import{c as e}from"./iframe-Csm0rhR9.js";import{t}from"./jsx-runtime-NR5QAisz.js";import{n}from"./lib-C3Db4iKJ.js";import"./dist-Ck7joNwc.js";import"./components-4dczOgGL.js";import"./react-dom-CWkZBubR.js";import{c as r,s as i}from"./blocks-1f8qi0qV.js";var a=e(t());function o(e){let t={h1:`h1`,...n(),...e.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(r,{title:`Changelog`}),`
-`,(0,a.jsx)(t.h1,{id:`changelog`,children:`Changelog`}),`
-`,(0,a.jsx)(i,{children:``})]})}function s(e={}){let{wrapper:t}={...n(),...e.components};return t?(0,a.jsx)(t,{...e,children:(0,a.jsx)(o,{...e})}):o(e)}export{s as default};
