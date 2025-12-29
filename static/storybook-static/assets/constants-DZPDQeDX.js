@@ -1,1 +1,0 @@
-const e=Object.freeze({xmlns:`http://www.w3.org/2000/svg`,width:`1em`,height:`1em`,focusable:!1,"aria-hidden":!0,fill:`currentColor`}),t=Object.freeze({width:`1em`,height:`1em`,focusable:!1,"aria-hidden":!0}),n=Object.freeze({color:{control:`color`},fontSize:{control:`number`}}),r=Object.freeze({...n,active:{control:`boolean`}});export{t as i,r as n,n as r,e as t};
