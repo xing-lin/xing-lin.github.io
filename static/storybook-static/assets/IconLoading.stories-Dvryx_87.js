@@ -1,0 +1,3 @@
+import"./jsx-runtime-yWKfG3YU.js";import{r as e}from"./constants-rzDqWDkv.js";import"./utils-CXMkBYrU.js";import{t}from"./IconLoading-DooGnNOV.js";var n={title:`Icons/IconLoading`,component:t,argTypes:e};const r={args:{}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`{
+  args: {}
+}`,...r.parameters?.docs?.source}}};const i=[`Default`];export{r as Default,i as __namedExportsOrder,n as default};
